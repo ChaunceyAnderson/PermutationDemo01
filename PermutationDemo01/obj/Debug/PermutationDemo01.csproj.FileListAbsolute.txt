@@ -1,1 +1,6 @@
 C:\Users\ctanderson\Documents\GitHub\PermutationDemo01\PermutationDemo01\bin\Debug\PermutationDemo01.exe.config
+C:\Users\ctanderson\Documents\GitHub\PermutationDemo01\PermutationDemo01\bin\Debug\PermutationDemo01.exe
+C:\Users\ctanderson\Documents\GitHub\PermutationDemo01\PermutationDemo01\bin\Debug\PermutationDemo01.pdb
+C:\Users\ctanderson\Documents\GitHub\PermutationDemo01\PermutationDemo01\obj\Debug\PermutationDemo01.csprojResolveAssemblyReference.cache
+C:\Users\ctanderson\Documents\GitHub\PermutationDemo01\PermutationDemo01\obj\Debug\PermutationDemo01.exe
+C:\Users\ctanderson\Documents\GitHub\PermutationDemo01\PermutationDemo01\obj\Debug\PermutationDemo01.pdb
